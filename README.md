@@ -78,7 +78,7 @@ The core strategy combines **Trend Filtering** with **Momentum Triggers** and **
 ### Visual Analysis
 **Equity Curve vs Benchmark:**
 ![Equity Curve](AAPL_chart.png)
-*(Note: Ensure you have uploaded 'AAPL_chart.png' to seeing this chart)*
+
 
 ---
 
